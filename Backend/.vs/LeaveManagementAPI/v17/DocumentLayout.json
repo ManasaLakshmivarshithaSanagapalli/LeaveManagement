@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\dtos\\leaverequests\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:dtos\\leaverequests\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\dtos\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:dtos\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\dtos\\leaverequests\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:dtos\\leaverequests\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:services\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\services\\sendergridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:services\\sendergridemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\dtos\\login\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:dtos\\login\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\dtos\\login\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:dtos\\login\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\dtos\\login\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:dtos\\login\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\leavemanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:leavemanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\models\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:models\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|c:\\users\\dtuser3\\onedrive\\desktop\\leavemanagement\\backend\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783CA3D6-6073-41DF-9ED2-AA56123309C5}|LeaveManagementAPI.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\ForgetPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Login\\ForgetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\ForgetPasswordDto.cs",
+              "RelativeToolTip": "DTOs\\Login\\ForgetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:46:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:20:53.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SenderGridEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Services\\SenderGridEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\SenderGridEmailService.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Services\\SenderGridEmailService.cs",
+              "RelativeToolTip": "Services\\SenderGridEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:16:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Login\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\ResetPasswordDto.cs",
+              "RelativeToolTip": "DTOs\\Login\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:24:05.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Login\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\Login\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:56:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Controllers\\LeaveTypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveTypesController.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Controllers\\LeaveTypesController.cs",
+              "RelativeToolTip": "Controllers\\LeaveTypesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:12:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwGgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:08:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginDto.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\loginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Login\\loginDto.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\Login\\loginDto.cs",
+              "RelativeToolTip": "DTOs\\Login\\loginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:45:40.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Services\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Services\\MappingProfile.cs",
+              "RelativeToolTip": "Services\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:16:38.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\LeaveRequests\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveRequests\\LeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\LeaveRequests\\LeaveRequestDto.cs",
+              "RelativeToolTip": "DTOs\\LeaveRequests\\LeaveRequestDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:14:43.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\LeaveRequests\\CreateLeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveRequests\\CreateLeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\DTOs\\LeaveRequests\\CreateLeaveRequestDto.cs",
+              "RelativeToolTip": "DTOs\\LeaveRequests\\CreateLeaveRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:13:04.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:37:55.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:27:51.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:18:59.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:15:05.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\LeaveType.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\LeaveType.cs",
+              "RelativeToolTip": "Models\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:12:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\Enums.cs",
+              "RelativeToolTip": "Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:11:38.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:06:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeaveManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\LeaveManagementAPI.csproj",
+              "RelativeDocumentMoniker": "LeaveManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\LeaveManagementAPI.csproj",
+              "RelativeToolTip": "LeaveManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T09:48:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T09:48:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dtuser3\\OneDrive\\Desktop\\LeaveManagement\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:46:20.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
